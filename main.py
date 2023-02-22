@@ -3,5 +3,5 @@ import pandas
 
 #File structure success with anaconda 
 #I am now a pro ml engineer
-tensor = tf.constant([7,5])
+tensor = tf.constant([7,5,9,1])
 print(tensor)
